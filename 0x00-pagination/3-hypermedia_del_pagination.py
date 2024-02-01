@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#i!/usr/bin/env python3
 """
 Deletion-resilient hypermedia pagination
 """
